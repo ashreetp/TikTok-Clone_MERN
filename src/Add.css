@@ -1,0 +1,13 @@
+.add {
+	margin: 15% 15% 5% 15%;
+	border-style: dashed;
+}
+.add_ip {
+	display: flex;
+	padding: 0px;
+	margin: 5% 5% 5% 5%;
+}
+.add_but {
+	padding: 10px 60px 10px 60px !important;
+	margin: 0% 0% 0% 30% !important;
+}

@@ -1,0 +1,43 @@
+html {
+	scroll-snap-type: y mandatory;
+}
+
+.but {
+	display: flex;
+	margin: 10px 10px 10px 77%;
+	padding: -10px;
+}
+
+.but_but {
+	padding: 10px 30px 10px 30px !important;
+	color: white !important;
+
+}
+.app {
+	padding-top: 2.5%;
+	padding-bottom: 1%;
+	margin-top: -10px;
+	margin-left: -2%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	display: grid;
+	place-items: center; 
+}
+
+.app_videos {
+	position: relative;
+	height: 550px;
+	border-radius: 50px;
+	width: 1200px;
+	overflow: scroll;
+	scroll-snap-type: y mandatory; 
+}
+
+.app_videos::-webkit-scrollbar {
+	display: none;
+}
+
+.app_videos {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}

@@ -1,0 +1,30 @@
+.con2 {
+
+	background-color: #ffbf87;
+	background-size: 100% !important;
+	padding: 5px !important;
+}
+
+.main2 {
+	border-style: double;
+	margin: 7% 25% 10% 25% !important;
+	background-color: #c45c00;
+	background-size: 100% !important;
+}
+
+.con_fields2 {
+	font-size: 2vh !important;
+	font-weight: 750 !important;
+	display: flex !important;
+	padding: 6px;
+	margin: 10px 10px 10px 10px !important;
+}
+
+.con_but2 {
+	margin-top: 5% !important;
+	margin-left: 40% !important;
+}
+
+.icon {
+	margin: 0% 0% 0% 90% !important;
+}
