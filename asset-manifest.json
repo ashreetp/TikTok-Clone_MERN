@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TikTok-Clone_MERN/static/css/main.70e76d95.chunk.css",
-    "main.js": "/TikTok-Clone_MERN/static/js/main.9b79d034.chunk.js",
-    "main.js.map": "/TikTok-Clone_MERN/static/js/main.9b79d034.chunk.js.map",
-    "runtime-main.js": "/TikTok-Clone_MERN/static/js/runtime-main.f07124fc.js",
-    "runtime-main.js.map": "/TikTok-Clone_MERN/static/js/runtime-main.f07124fc.js.map",
-    "static/js/2.93d26a87.chunk.js": "/TikTok-Clone_MERN/static/js/2.93d26a87.chunk.js",
-    "static/js/2.93d26a87.chunk.js.map": "/TikTok-Clone_MERN/static/js/2.93d26a87.chunk.js.map",
-    "static/js/3.ad79c96d.chunk.js": "/TikTok-Clone_MERN/static/js/3.ad79c96d.chunk.js",
-    "static/js/3.ad79c96d.chunk.js.map": "/TikTok-Clone_MERN/static/js/3.ad79c96d.chunk.js.map",
+    "main.css": "/TikTok-Clone_MERN/static/css/main.58ef9914.chunk.css",
+    "main.js": "/TikTok-Clone_MERN/static/js/main.7c649e5a.chunk.js",
+    "main.js.map": "/TikTok-Clone_MERN/static/js/main.7c649e5a.chunk.js.map",
+    "runtime-main.js": "/TikTok-Clone_MERN/static/js/runtime-main.2b471fb4.js",
+    "runtime-main.js.map": "/TikTok-Clone_MERN/static/js/runtime-main.2b471fb4.js.map",
+    "static/js/2.96dccead.chunk.js": "/TikTok-Clone_MERN/static/js/2.96dccead.chunk.js",
+    "static/js/2.96dccead.chunk.js.map": "/TikTok-Clone_MERN/static/js/2.96dccead.chunk.js.map",
+    "static/js/3.6e06f912.chunk.js": "/TikTok-Clone_MERN/static/js/3.6e06f912.chunk.js",
+    "static/js/3.6e06f912.chunk.js.map": "/TikTok-Clone_MERN/static/js/3.6e06f912.chunk.js.map",
     "index.html": "/TikTok-Clone_MERN/index.html",
-    "static/css/main.70e76d95.chunk.css.map": "/TikTok-Clone_MERN/static/css/main.70e76d95.chunk.css.map",
-    "static/js/2.93d26a87.chunk.js.LICENSE.txt": "/TikTok-Clone_MERN/static/js/2.93d26a87.chunk.js.LICENSE.txt"
+    "static/css/main.58ef9914.chunk.css.map": "/TikTok-Clone_MERN/static/css/main.58ef9914.chunk.css.map",
+    "static/js/2.96dccead.chunk.js.LICENSE.txt": "/TikTok-Clone_MERN/static/js/2.96dccead.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f07124fc.js",
-    "static/js/2.93d26a87.chunk.js",
-    "static/css/main.70e76d95.chunk.css",
-    "static/js/main.9b79d034.chunk.js"
+    "static/js/runtime-main.2b471fb4.js",
+    "static/js/2.96dccead.chunk.js",
+    "static/css/main.58ef9914.chunk.css",
+    "static/js/main.7c649e5a.chunk.js"
   ]
 }
